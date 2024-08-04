@@ -108,7 +108,7 @@ Here are some screenshots of the web application:
 ![Admin_home](img/tongquan.png)
 
 ### Admin Category
-![Admin_dm](img/danhmuc.png)
+![Admin_dm](img/admin_dm.png)
 
 ### Admin Product
 ![Admin_product](img/admin_product.png)
