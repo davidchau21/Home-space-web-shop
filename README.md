@@ -63,23 +63,53 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-After installation, you can access the application in your web browser at `http://localhost:8080/Home-space-web-shop`. From there, you can sign up for a new account, browse products, add them to your cart, and proceed to checkout.
+After installation, you can access the application in your web browser at `http://localhost:8080/`. From there, you can sign up for a new account, browse products, add them to your cart, and proceed to checkout.
+
+## Class Diagram
+
+Below is the class diagram for the project:
+
+![Class Diagram](img/diagram.png)
 
 ## Screenshots
 
 Here are some screenshots of the web application:
 
 ### Home Page
-![Home Page](path_to_home_page_screenshot)
+![Home Page](img/home.png)
+![News](img/news.png)
+![footer](img/footer.png)
 
 ### Product Page
-![Product Page](path_to_product_page_screenshot)
+![Product Page](img/product.png)
 
 ### Shopping Cart
-![Shopping Cart](path_to_shopping_cart_screenshot)
+![Shopping Cart](img/cart.png)
 
-## Class Diagram
+### Detail Product
+![Detail](img/detail.png)
 
-Below is the class diagram for the project:
+### Category 
+![Category](img/danhmuc.png)
 
-![Class Diagram](path_to_class_diagram)
+### Login 
+![Login](img/login.png)
+
+### Sign In
+![sign In](img/signIn.png)
+
+### Payment
+![pay](img/paymen.png)
+
+### Admin Page
+![Admin](img/admin.png)
+
+### Admin Home
+![Admin_home](img/tongquan.png)
+
+### Admin Category
+![Admin_dm](img/danhmuc.png)
+
+### Admin Product
+![Admin_product](img/admin_product.png)
+
